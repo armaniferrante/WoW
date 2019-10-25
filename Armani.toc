@@ -1,0 +1,5 @@
+## Interface: 11302
+## Title: Armani Ferrante
+## Notes: My first addon!
+Armani.lua
+Armani.xml
